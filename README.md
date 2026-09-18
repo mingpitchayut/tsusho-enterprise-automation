@@ -3,7 +3,12 @@
 **Affiliation:** B.Eng. in Computer Engineering, Mahidol University International College (MUIC)  
 **Target:** Technical Certification & Production Portfolio
 
-📄 **[Download Complete Executive PDF](Pitchayut_Boonporn_Engineering_Dossier.pdf)**
+📄 **[Download Complete Executive PDF](pitchayut_boonporn_all_work_contributions.pdf)**
+
+---
+
+> **Notice on Confidentiality & IP Compliance**  
+> Due to corporate data protection regulations and company nondisclosure policies, full source code repositories, proprietary parsing rules, internal API endpoints, and production client documents cannot be publicly hosted in this repository. This page serves as an architectural overview, scope summary, and technical record of the engineering solutions and automated pipelines developed.
 
 ---
 
